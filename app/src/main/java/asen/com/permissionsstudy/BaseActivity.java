@@ -103,6 +103,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         }
     }
 
+
     /**
      * 权限请求失败
      *
